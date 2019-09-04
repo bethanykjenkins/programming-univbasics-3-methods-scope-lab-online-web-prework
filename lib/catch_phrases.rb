@@ -11,3 +11,11 @@ def toadstool
 end
 
 p toadstool
+
+def any_phrase (phrase)
+  puts phrase
+end
+
+phrase = "Do A Barrell Roll"
+
+p any_phrase (phrase)
