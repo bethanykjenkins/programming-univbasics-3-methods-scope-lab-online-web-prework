@@ -16,6 +16,13 @@ def any_phrase (phrase)
   puts phrase
 end
 
+def link 
+  phrase = "It's dangerous to Go Alone! Take This."
+  puts phrase
+end
+
+link
+
 phrase = "Do A Barrell Roll"
 
 p any_phrase (phrase)
